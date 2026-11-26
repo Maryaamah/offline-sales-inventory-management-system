@@ -53,6 +53,9 @@ I worked on the design, development and delivery of the application, translating
 This repository contains a public, anonymised case study of the project.
 
 The original application source code, client identity and confidential business information are not publicly available.
+## 🖥️ Project Showcase
+
+![Offline Sales and Inventory Management System](project-showcase.png)
 
 ---
 
