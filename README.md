@@ -56,6 +56,7 @@ The original application source code, client identity and confidential business 
 ## 🖥️ Project Showcase
 
 ![Offline Sales and Inventory Management System](project-showcase.png)
+*Illustrative dashboard concept created for portfolio presentation; not an actual screenshot of the delivered application.*
 
 ---
 
